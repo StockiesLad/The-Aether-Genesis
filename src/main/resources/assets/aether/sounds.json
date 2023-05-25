@@ -1,4 +1,27 @@
 {
+  "block.aether_portal.ambient": {
+    "replace": true,
+    "sounds": [
+      {
+        "attenuation_distance": 10,
+        "name": "aether:block/aether_portal/aether_portal_ambient"
+      }
+    ],
+    "subtitle": "subtitles.aether.block.aether_portal.ambient"
+  },
+  "block.aether_portal.travel": {
+    "replace": true,
+    "sounds": [
+      "aether:block/aether_portal/aether_portal_travel"
+    ]
+  },
+  "block.aether_portal.trigger": {
+    "replace": true,
+    "sounds": [
+      "aether:block/aether_portal/aether_portal_trigger"
+    ],
+    "subtitle": "subtitles.aether.block.aether_portal.trigger"
+  },
   "music.aether": {
     "replace": true,
     "sounds": [
